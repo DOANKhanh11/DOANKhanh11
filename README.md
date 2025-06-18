@@ -3,7 +3,7 @@
   <img src="banner.svg" width="1200" alt="banner" />
 </a>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">🛠 Technologies et Utils 🛠</h2>
 <br>
 
 <!-- Frontend -->
@@ -36,14 +36,14 @@
 <span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="25" /></span>
 &nbsp;
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Status</h2>
 <br>
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOANKhanh11&layout=compact&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DOANKhanh11&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 
-<h2 align="center">📬 Contact Me</h2>
+<h2 align="center">📬 Contactez-moi </h2>
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/dang-van-khanh-doan-208a77258/" target="_blank">
