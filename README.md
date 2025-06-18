@@ -1,6 +1,6 @@
 <!-- Doan Dang Van Khanh -->
-<a href="https://doandangvankhanh.com/" target="_blank">
-  <img src="https://doandangvankhanh.com/banner.svg" width="100%" alt="banner" />
+<a href="#" target="_blank">
+  <img src="banner.svg" width="1200" alt="banner" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
