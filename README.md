@@ -39,8 +39,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <br>
 <div align="center">
-  <img width="315" src="https://github-readme-stats.vercel.app/api?username=DOANKhanh11&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOANKhanh11&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="315" align="center" src="https://github-readme-stats.vercel.app/api?username=DOANKhanh11&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img align="right" width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOANKhanh11&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <h2 align="center">📬 Contact Me</h2>
